@@ -20,13 +20,6 @@ fn main() {
             eprintln!("Unknown command: {}", command);
             std::process::exit(1);
     }
-
-    // create_file("poem.txt", "Abhinav Agarawalla")
-    //     .expect("Error calling the function"); 
-
-    // read_file("poem.txt") 
-    //     .expect("Error calling the functon"); 
-    
 }
 
 fn create_file(filename: &str, content: &str) -> Result<(), std::io::Error> {
