@@ -21,7 +21,7 @@ fn handle_connection(mut stream: TcpStream) {
     let mut buffer = [0; 1024];
 
     stream.read(&mut buffer).unwrap();
-    let get = b"GET / HTTP/1.1\r\n";
+    let get = b"GET /path HTTP/1.1\r\n";
     
     let (status_line, filename) =  
         if buffer.starts_with(get) {
