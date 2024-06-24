@@ -1,0 +1,13 @@
+/home/dane/Desktop/dane-git/Rusties/cli/sun/target/debug/deps/libtracing-a4229ecd6219bb1b.rmeta: /home/dane/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-0.1.37/src/lib.rs /home/dane/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-0.1.37/src/macros.rs /home/dane/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-0.1.37/src/dispatcher.rs /home/dane/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-0.1.37/src/field.rs /home/dane/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-0.1.37/src/instrument.rs /home/dane/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-0.1.37/src/level_filters.rs /home/dane/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-0.1.37/src/span.rs /home/dane/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-0.1.37/src/stdlib.rs /home/dane/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-0.1.37/src/subscriber.rs
+
+/home/dane/Desktop/dane-git/Rusties/cli/sun/target/debug/deps/tracing-a4229ecd6219bb1b.d: /home/dane/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-0.1.37/src/lib.rs /home/dane/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-0.1.37/src/macros.rs /home/dane/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-0.1.37/src/dispatcher.rs /home/dane/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-0.1.37/src/field.rs /home/dane/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-0.1.37/src/instrument.rs /home/dane/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-0.1.37/src/level_filters.rs /home/dane/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-0.1.37/src/span.rs /home/dane/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-0.1.37/src/stdlib.rs /home/dane/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-0.1.37/src/subscriber.rs
+
+/home/dane/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-0.1.37/src/lib.rs:
+/home/dane/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-0.1.37/src/macros.rs:
+/home/dane/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-0.1.37/src/dispatcher.rs:
+/home/dane/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-0.1.37/src/field.rs:
+/home/dane/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-0.1.37/src/instrument.rs:
+/home/dane/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-0.1.37/src/level_filters.rs:
+/home/dane/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-0.1.37/src/span.rs:
+/home/dane/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-0.1.37/src/stdlib.rs:
+/home/dane/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-0.1.37/src/subscriber.rs:
